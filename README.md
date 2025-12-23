@@ -72,4 +72,6 @@ Intensidade de Uso:
     • Média: como suporte na geração dos códigos da classe SimuladorEscalonamento.java( estruturas avançadas de concorrencia e comparadores de prioridade).
     • Baixa: Na definição dos conceitos teóricos de SO, que serviram apenas como validação de conhecimento prévio.
 
+Vídeo explicativo que foi solicitado: 
 
+https://drive.google.com/file/d/1ft8ZWl5TBv1r6jf-115yudLHZyJmEZvH/view?usp=sharing
